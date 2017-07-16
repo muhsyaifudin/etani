@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dip"
+        android:paddingBottom="10dip"
+        android:orientation="vertical">
+        <RelativeLayout android:id="@+id/layout1line1"
+            android:background="@color/colorSelected"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dip">
+                <ImageView android:id="@+id/foto_produk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:maxWidth="240px"
+                    android:maxHeight="135px"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="left"
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="240px"
+                android:layout_height="135px"
+                android:padding="15dip">
+                <ImageView android:id="@+id/filter1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:maxWidth="240px"
+                    android:maxHeight="135px"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="left"
+                    android:src="@drawable/transblack"
+                    />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/pupuk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="15dip"
+                android:paddingLeft="150dip"
+                android:text="Organik"
+                android:textSize="5pt"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/Ijoroyo"
+                />
+            <TextView
+                android:id="@+id/nama_produk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="27dip"
+                android:paddingLeft="150dip"
+                android:text="Bawang Merah Manalagi"
+                android:textSize="7pt"
+                android:textStyle="bold"
+                android:textColor="@color/colorUnselected"
+                />
+            <TextView
+                android:id="@+id/harga"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="45dip"
+                android:paddingLeft="150dip"
+                android:text="Rp 25000/Kg"
+                android:textSize="7pt"
+                android:textStyle="bold"
+                android:textColor="@color/colorUnselected"
+                />
+            <TextView
+                android:id="@+id/petani"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="65dip"
+                android:paddingLeft="150dip"
+                android:text="Muh Syaifudin"
+                android:textSize="5pt"
+                android:textColor="@color/colorUnselected"/>
+
+            <TextView
+                android:id="@+id/subtotal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="95dip"
+                android:paddingLeft="150dip"
+                android:text="Sub Total : Rp 50000"
+                android:textSize="5pt"
+                android:textColor="@color/colorUnselected"/>
+
+            <TextView
+                android:id="@+id/satuan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="95dip"
+                android:paddingLeft="70dip"
+                android:text="Kg"
+                android:textSize="5pt"
+                android:textColor="@color/colorUnselected"/>
+
+            <EditText
+                android:id="@+id/jml"
+                style="@style/Widget.AppCompat.EditText"
+                android:layout_width="20pt"
+                android:layout_height="10pt"
+                android:layout_marginTop="91dip"
+                android:layout_marginLeft="20dip"
+                android:layout_marginBottom="10dip"
+
+                android:textSize="5pt"
+                android:paddingLeft="10dip"
+                android:textColor="#ff2b2e2f"
+                android:background="@drawable/roundshape"/>
+
+            <Button android:id="@+id/btnbatal"
+                android:layout_width="150px"
+                android:layout_height="50px"
+                android:layout_marginLeft="550px"
+                android:layout_marginTop="175px"
+                android:textColor="#ffffff"
+                android:textSize="4pt"
+                android:background="@drawable/buttonlogin"
+                android:text="Batalkan"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+    <!--<LinearLayout-->
+    <!--android:id="@+id/line1"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tx_name"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentLeft="true"-->
+    <!--android:gravity="center"-->
+    <!--android:text="Udin"-->
+    <!--android:textAppearance="?android:textAppearanceLarge" />-->
+
+    <!--</LinearLayout>-->
+    <!--<LinearLayout-->
+    <!--android:layout_below="@+id/line1"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content">-->
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:id="@+id/tx_foto"-->
+    <!--android:layout_alignParentLeft="true"-->
+    <!--android:text="Udin"-->
+    <!--android:gravity="center"-->
+    <!--android:textAppearance="?android:textAppearanceLarge"-->
+    <!--/>-->
+
+
+    <!--</LinearLayout>-->
+
+</RelativeLayout>

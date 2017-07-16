@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff82bc00">
+        <!--HEADER STARTS-->
+        <LinearLayout android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="170dip"
+            android:paddingBottom="20dip"
+            android:orientation="vertical"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <!--LOGO START-->
+            <ImageView android:id="@+id/image_view1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="120dp"
+                android:maxHeight="120dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/logo"
+                />
+            <ProgressBar
+                style="?android:attr/progressBarStyle"
+                android:paddingTop="100dip"
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/progressbar"
+                android:progressDrawable="@drawable/circular_progress_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <!--LOGO END-->
+        </LinearLayout>
+        <!--HEADER END-->
+
+
+
+        <!--FOOTER START-->
+        <LinearLayout android:id="@+id/footer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="65dip"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/formlogin"
+            >
+            <!--LOGO START-->
+            <ImageView android:id="@+id/footer1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="370dp"
+                android:maxHeight="370dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/footer"
+                />
+
+
+            <!--LOGO END-->
+        </LinearLayout>
+        <!--FOOTER END-->
+
+    </RelativeLayout>
+</ScrollView>

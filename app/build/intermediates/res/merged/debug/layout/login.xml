@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff82bc00">
+        <!--HEADER STARTS-->
+        <LinearLayout android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="50dip"
+            android:paddingBottom="20dip"
+            android:orientation="vertical">
+            <!--LOGO START-->
+            <ImageView android:id="@+id/image_view1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="120dp"
+                android:maxHeight="120dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/logo"
+                />
+            <!--LOGO END-->
+        </LinearLayout>
+        <!--HEADER END-->
+
+        <!--LOGIN FORM START-->
+        <LinearLayout android:id="@+id/formlogin"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dip"
+            android:layout_below="@id/header">
+            <!--  Email Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="11dip"
+                android:text="Email"/>
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="fill_parent"
+                android:layout_height="35dip"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="10dip"
+                android:singleLine="true"
+                android:textSize="11dip"
+                android:paddingLeft="10dip"
+                android:textColor="#ff2b2e2f"
+                android:background="@drawable/roundshape"/>
+            <!--  Password Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="11dip"
+                android:text="Kata Sandi"/>
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="fill_parent"
+                android:layout_height="35dip"
+                android:layout_marginTop="5dip"
+                android:singleLine="true"
+                android:paddingLeft="10dip"
+                android:textSize="11dip"
+                android:textColor="#ff2b2e2f"
+                android:background="@drawable/roundshape"
+                android:inputType="textPassword" />
+            <!-- LoginActivity button -->
+            <Button android:id="@+id/btnLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="35dip"
+                android:textColor="#ffffff"
+                android:layout_marginTop="10dip"
+                android:textSize="12dip"
+                android:onClick="login"
+                android:background="@drawable/buttonlogin"
+                android:text="Masuk"/>
+            <!-- Link to Registration Screen -->
+            <TextView android:id="@+id/link_to_register"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dip"
+                android:layout_marginBottom="10dip"
+                android:text="Pengguna baru? Silakan buat akun baru di sini."
+                android:gravity="center"
+                android:textSize="11dip"
+                android:textColor="#ffffff"/>
+            <Button android:id="@+id/btntoRegister"
+                android:layout_width="fill_parent"
+                android:layout_height="35dip"
+                android:textColor="#ffffff"
+                android:layout_marginBottom="50dip"
+                android:textSize="12dip"
+                android:onClick="keregister"
+                android:background="@drawable/buttonlogin"
+                android:text="Daftar"/>
+        </LinearLayout>
+        <!--LOGIN FORM END-->
+
+        <!--FOOTER START-->
+        <LinearLayout android:id="@+id/footer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="65dip"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/formlogin"
+            >
+            <!--LOGO START-->
+            <ImageView android:id="@+id/footer1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="370dp"
+                android:maxHeight="370dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/footer"
+                />
+            <!--LOGO END-->
+        </LinearLayout>
+        <!--FOOTER END-->
+
+    </RelativeLayout>
+</ScrollView>

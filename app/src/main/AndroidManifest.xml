@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.etanixyz.etani">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/etanilogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SpashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProdukActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RiwayatActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BantuanActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AkunActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayListView"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".KeranjangActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".CheckoutActivity"></activity>
+    </application>
+
+</manifest>

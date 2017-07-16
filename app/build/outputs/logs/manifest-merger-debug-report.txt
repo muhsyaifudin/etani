@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:7:5-53:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Horizon\.android\build-cache\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\17c06865d6ab835f2c42fe2ae7076543bcfb3232\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\11e89e073c50e1a94fdaafa12a06b480fda43c90\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Horizon\.android\build-cache\533039a33fa51ff655720ef49e9f00ccccde3727\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Horizon\.android\build-cache\c8ed435ed753e2bf826831f2864360ab5cd11941\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Horizon\.android\build-cache\69687efdc1d0700e6821f32f1c1b9b88193d2a67\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Horizon\.android\build-cache\8d36ee6cc9e4d8c28194f65babb749d8b365e50f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Horizon\.android\build-cache\a2473c4dedf18f3815119761450011bf7c64ee62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Horizon\.android\build-cache\e44fe7db170b39feef3899a619bcac44fb436ecd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Horizon\.android\build-cache\f55151b49a3ed4778ba1b6b83748941581ab17b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Horizon\.android\build-cache\a4a309a1fd4e7f45b5346ef02b48cdc8c7c07016\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:9:9-41
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.etanixyz.etani.SpashActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:14:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.etanixyz.etani.RegisterActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:22:9-24:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.etanixyz.etani.LoginActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:25:9-27:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:26:13-42
+activity#com.etanixyz.etani.ProdukActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:28:9-30:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:29:13-43
+activity#com.etanixyz.etani.RiwayatActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:31:9-33:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:32:13-44
+activity#com.etanixyz.etani.BantuanActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:34:9-36:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:35:13-44
+activity#com.etanixyz.etani.AkunActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:37:9-39:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:38:13-41
+activity#com.etanixyz.etani.ListActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:40:9-42:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:41:13-41
+activity#com.etanixyz.etani.DisplayListView
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:43:9-45:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:44:13-44
+activity#com.etanixyz.etani.MainActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:46:9-48:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:47:13-41
+activity#com.etanixyz.etani.KeranjangActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:49:9-51:59
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:50:13-46
+activity#com.etanixyz.etani.CheckoutActivity
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:52:9-63
+	android:name
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:52:19-51
+uses-sdk
+INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Horizon\.android\build-cache\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\17c06865d6ab835f2c42fe2ae7076543bcfb3232\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\11e89e073c50e1a94fdaafa12a06b480fda43c90\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Horizon\.android\build-cache\2be55f616a6e183d8bd258ddb646b8bb9878a875\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Horizon\.android\build-cache\533039a33fa51ff655720ef49e9f00ccccde3727\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Horizon\.android\build-cache\c8ed435ed753e2bf826831f2864360ab5cd11941\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Horizon\.android\build-cache\69687efdc1d0700e6821f32f1c1b9b88193d2a67\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Horizon\.android\build-cache\8d36ee6cc9e4d8c28194f65babb749d8b365e50f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Horizon\.android\build-cache\a2473c4dedf18f3815119761450011bf7c64ee62\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Horizon\.android\build-cache\e44fe7db170b39feef3899a619bcac44fb436ecd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Horizon\.android\build-cache\f55151b49a3ed4778ba1b6b83748941581ab17b6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Horizon\.android\build-cache\a4a309a1fd4e7f45b5346ef02b48cdc8c7c07016\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Horizon\.android\build-cache\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\17c06865d6ab835f2c42fe2ae7076543bcfb3232\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\11e89e073c50e1a94fdaafa12a06b480fda43c90\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Horizon\.android\build-cache\2be55f616a6e183d8bd258ddb646b8bb9878a875\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Horizon\.android\build-cache\533039a33fa51ff655720ef49e9f00ccccde3727\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Horizon\.android\build-cache\c8ed435ed753e2bf826831f2864360ab5cd11941\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Horizon\.android\build-cache\69687efdc1d0700e6821f32f1c1b9b88193d2a67\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Horizon\.android\build-cache\8d36ee6cc9e4d8c28194f65babb749d8b365e50f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Horizon\.android\build-cache\a2473c4dedf18f3815119761450011bf7c64ee62\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Horizon\.android\build-cache\e44fe7db170b39feef3899a619bcac44fb436ecd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Horizon\.android\build-cache\f55151b49a3ed4778ba1b6b83748941581ab17b6\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:26:9-47

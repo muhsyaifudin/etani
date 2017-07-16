@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee">
+
+        <LinearLayout android:id="@+id/line1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            android:background="@color/colorSelected">
+            <TextView android:id="@+id/nama"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dip"
+                android:paddingLeft="20dip"
+                android:text=""
+                android:gravity="left"
+                android:textSize="14dip"
+                android:textStyle="bold"
+                android:textColor="#ff2b2e2f"/>
+
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/line2"
+            android:layout_below="@+id/line1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="1dip"
+            android:background="@color/colorSelected"
+            android:orientation="horizontal"
+            android:weightSum="1">
+            <TextView android:id="@+id/perusahaan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:text=""
+                android:gravity="left"
+                android:textSize="11dip"
+                android:textColor="#ff2b2e2f"/>
+
+        </LinearLayout>
+        <LinearLayout android:id="@+id/line3"
+            android:layout_below="@+id/line2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip"
+            android:paddingBottom="5dip"
+            android:paddingLeft="2dip"
+            android:paddingRight="2dip"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+
+        </LinearLayout>
+        <LinearLayout android:id="@+id/line4"
+            android:layout_below="@+id/line3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/colorSelected"
+            android:weightSum="1">
+            <TextView android:id="@+id/email"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dip"
+
+                android:paddingLeft="20dip"
+                android:text=""
+                android:gravity="left"
+                android:textSize="11dip"
+                android:textColor="#ff2b2e2f"/>
+
+
+        </LinearLayout>
+        <LinearLayout android:id="@+id/line5"
+            android:layout_below="@+id/line4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="2dip"
+            android:background="@color/colorSelected"
+            android:weightSum="1">
+            <TextView android:id="@+id/no_telp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:text=""
+                android:gravity="left"
+                android:textSize="11dip"
+                android:textColor="#ff2b2e2f"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/line6"
+            android:layout_below="@+id/line5"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip"
+            android:paddingBottom="5dip"
+            android:paddingLeft="2dip"
+            android:paddingRight="2dip"
+            android:orientation="horizontal"
+            android:weightSum="1">
+        </LinearLayout>
+
+
+        <LinearLayout android:id="@+id/line7"
+            android:layout_below="@+id/line6"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/colorSelected"
+            android:weightSum="1">
+            <TextView android:id="@+id/alamat"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dip"
+
+                android:paddingLeft="20dip"
+                android:text=""
+                android:gravity="left"
+                android:textSize="11dip"
+                android:textColor="#ff2b2e2f"/>
+
+
+        </LinearLayout>
+        <LinearLayout android:id="@+id/line8"
+            android:layout_below="@+id/line7"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="2dip"
+            android:background="@color/colorSelected"
+            android:weightSum="1">
+            <TextView android:id="@+id/kodepos"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dip"
+                android:text=""
+                android:gravity="left"
+                android:textSize="11dip"
+                android:textColor="#ff2b2e2f"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/line9"
+            android:layout_below="@+id/line8"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/colorSelected"
+            android:weightSum="1">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="185dip"
+                android:layout_height="wrap_content"
+
+                android:paddingTop="10dip"
+                android:paddingLeft="10dip"
+                android:paddingBottom="10dip">
+                <Button android:id="@+id/btnedit"
+                    android:layout_width="165dip"
+                    android:layout_height="35dip"
+                    android:textColor="#ffffff"
+                    android:layout_gravity="left"
+                    android:textSize="11dip"
+                    android:background="@drawable/buttonijo"
+                    android:text="Edit Akun"/>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="185dip"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dip"
+                android:paddingTop="10dip"
+
+                android:paddingBottom="10dip">
+                <Button android:id="@+id/btnganti"
+                    android:layout_width="165dip"
+                    android:layout_height="35dip"
+                    android:textColor="#ffffff"
+                    android:layout_gravity="left"
+                    android:textSize="11dip"
+                    android:background="@drawable/buttonijo"
+                    android:text="Ganti Password"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--FOOTER START-->
+        <LinearLayout android:id="@+id/footer"
+            android:layout_below="@+id/line9"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dip"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true"
+            >
+            <LinearLayout android:id="@+id/formlogin"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dip">
+
+                <Button android:id="@+id/btnLogout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="35dip"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="200dip"
+                    android:textSize="11dip"
+                    android:onClick="logout"
+                    android:background="@drawable/buttonlogin"
+                    android:text="Keluar"/>
+            </LinearLayout>
+            <!--LOGO START-->
+            <!--LOGO END-->
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>

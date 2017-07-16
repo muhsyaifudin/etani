@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#ff2b2e2f</color>
+    <color name="colorSelected">#FFFFFF</color>
+    <color name="colorUnselected">#ff2b2e2f</color>
+    <color name="TransparantBlack">#4D000000</color>
+    <color name="Ijoroyo">#ff82bc00</color>
+
+</resources>

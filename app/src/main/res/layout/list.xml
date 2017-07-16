@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee">
+        <!--Item 1 Start-->
+        <LinearLayout
+            android:id="@+id/layout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dip"
+            android:orientation="vertical">
+            <RelativeLayout android:id="@+id/layout1line1"
+                android:background="@color/colorSelected"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1">
+                <ImageView android:id="@+id/bw1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:maxWidth="721px"
+                    android:maxHeight="405px"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="left"
+
+                    />
+
+                <ImageView android:id="@+id/filter1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:maxWidth="721px"
+                    android:maxHeight="405px"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="left"
+                    android:src="@drawable/transblack"
+                    />
+                <TextView
+                    android:id="@+id/pupuk1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="263px"
+                    android:paddingLeft="10dip"
+                    android:text="Organik"
+                    android:textSize="5pt"
+                    android:textStyle="bold"
+                    android:textAllCaps="true"
+                    android:textColor="@color/Ijoroyo"
+                    />
+                <TextView
+                    android:id="@+id/namaproduk1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="288px"
+                    android:paddingLeft="10dip"
+                    android:text="Bawang Merah Manalagi"
+                    android:textSize="8pt"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorSelected"
+                    />
+                <TextView
+                    android:id="@+id/harga1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="328px"
+                    android:paddingLeft="10dip"
+                    android:text="Rp 25000/Kg"
+                    android:textSize="8pt"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorSelected"
+                    />
+                <TextView
+                    android:id="@+id/minimal1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="370px"
+                    android:paddingLeft="10dip"
+                    android:text="Minimal Pembelian 1 Kg"
+                    android:textSize="5pt"
+                    android:textStyle="italic"
+                    android:textColor="@color/colorSelected"
+                    />
+            </RelativeLayout>
+            <LinearLayout android:id="@+id/layout1line2"
+                android:background="@color/colorSelected"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="2dip"
+                android:paddingLeft="4dip"
+                android:paddingRight="4dip"
+                android:paddingBottom="10dip"
+                android:orientation="vertical"
+                android:weightSum="1">
+                <TextView
+                    android:id="@+id/petani1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dip"
+                    android:text="Muh Syaifudin"
+                    android:textSize="7pt"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorUnselected"
+                    />
+                <TextView
+                    android:id="@+id/notelp1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dip"
+                    android:text="08231234231"
+                    android:textSize="5pt"
+                    android:textColor="@color/colorUnselected"
+                    />
+                <TextView
+                    android:id="@+id/alamat1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dip"
+                    android:paddingLeft="10dip"
+                    android:text="Jl. Selokan Mataram, No 2, Sleman, Yogyakarta"
+                    android:textSize="5pt"
+                    android:textColor="@color/colorUnselected"
+                    />
+                <Button android:id="@+id/btnkeranjang1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="35dip"
+                    android:textColor="#ffffff"
+                    android:textSize="12dip"
+                    android:background="@drawable/buttonijo"
+                    android:text="Masukkan ke Keranjang"/>
+            </LinearLayout>
+        </LinearLayout>
+        <!--Item 1 End-->
+
+        <!--&lt;!&ndash;Item 2 Start&ndash;&gt;-->
+        <!--<LinearLayout-->
+            <!--android:id="@+id/layout2"-->
+            <!--android:layout_below="@+id/layout1"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginBottom="15dip"-->
+            <!--android:orientation="vertical">-->
+            <!--<RelativeLayout android:id="@+id/layout2line1"-->
+                <!--android:background="@color/colorSelected"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:weightSum="1">-->
+                <!--<ImageView android:id="@+id/bw2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:adjustViewBounds="true"-->
+                    <!--android:maxWidth="721px"-->
+                    <!--android:maxHeight="405px"-->
+                    <!--android:scaleType="fitXY"-->
+                    <!--android:layout_gravity="left"-->
+                    <!--android:src="@drawable/bw2"-->
+                    <!--/>-->
+
+                <!--<ImageView android:id="@+id/filter2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:adjustViewBounds="true"-->
+                    <!--android:maxWidth="721px"-->
+                    <!--android:maxHeight="405px"-->
+                    <!--android:scaleType="fitXY"-->
+                    <!--android:layout_gravity="left"-->
+                    <!--android:src="@drawable/transblack"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/pupuk2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingTop="263px"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="Anorganik"-->
+                    <!--android:textSize="5pt"-->
+                    <!--android:textStyle="bold"-->
+                    <!--android:textAllCaps="true"-->
+                    <!--android:textColor="@color/Ijoroyo"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/namaproduk2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingTop="288px"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="Bawang Merah Montong"-->
+                    <!--android:textSize="8pt"-->
+                    <!--android:textStyle="bold"-->
+                    <!--android:textColor="@color/colorSelected"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/harga2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingTop="328px"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="Rp 20000/Kg"-->
+                    <!--android:textSize="8pt"-->
+                    <!--android:textStyle="bold"-->
+                    <!--android:textColor="@color/colorSelected"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/minimal2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingTop="370px"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="Minimal Pembelian 1 Kg"-->
+                    <!--android:textSize="5pt"-->
+                    <!--android:textStyle="italic"-->
+                    <!--android:textColor="@color/colorSelected"-->
+                    <!--/>-->
+            <!--</RelativeLayout>-->
+            <!--<LinearLayout android:id="@+id/layout2line2"-->
+                <!--android:background="@color/colorSelected"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:paddingTop="2dip"-->
+                <!--android:paddingLeft="4dip"-->
+                <!--android:paddingRight="4dip"-->
+                <!--android:orientation="vertical"-->
+                <!--android:weightSum="1">-->
+                <!--<TextView-->
+                    <!--android:id="@+id/petani2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="Dwi Bonggo"-->
+                    <!--android:textSize="7pt"-->
+                    <!--android:textStyle="bold"-->
+                    <!--android:textColor="@color/colorUnselected"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/notelp2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="085736642834"-->
+                    <!--android:textSize="5pt"-->
+                    <!--android:textColor="@color/colorUnselected"-->
+                    <!--/>-->
+                <!--<TextView-->
+                    <!--android:id="@+id/alamat2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginBottom="10dip"-->
+                    <!--android:paddingLeft="10dip"-->
+                    <!--android:text="Jl. Glagah Sari, No 69, Yogyakarta, Yogyakarta"-->
+                    <!--android:textSize="5pt"-->
+                    <!--android:textColor="@color/colorUnselected"-->
+                    <!--/>-->
+                <!--<Button android:id="@+id/btnkeranjang2"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="35dip"-->
+                    <!--android:layout_marginBottom="10dip"-->
+                    <!--android:textColor="#ffffff"-->
+                    <!--android:textSize="12dip"-->
+                    <!--android:background="@drawable/buttonijo"-->
+                    <!--android:text="Masukkan ke Keranjang"/>-->
+            <!--</LinearLayout>-->
+        <!--</LinearLayout>-->
+        <!--Item 1 End-->
+
+
+        <!--FOOTER START-->
+        <!--FOOTER END-->
+
+    </RelativeLayout>
+</ScrollView>

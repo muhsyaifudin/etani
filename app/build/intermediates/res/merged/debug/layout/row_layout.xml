@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dip"
+        android:orientation="vertical">
+        <RelativeLayout android:id="@+id/layout1line1"
+            android:background="@color/colorSelected"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+            <ImageView android:id="@+id/foto_produk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="721px"
+                android:maxHeight="405px"
+                android:scaleType="fitXY"
+                android:layout_gravity="left"
+
+                />
+
+            <ImageView android:id="@+id/filter1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="721px"
+                android:maxHeight="405px"
+                android:scaleType="fitXY"
+                android:layout_gravity="left"
+                android:src="@drawable/transblack"
+                />
+            <TextView
+                android:id="@+id/pupuk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="263px"
+                android:paddingLeft="10dip"
+                android:text="Organik"
+                android:textSize="5pt"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/Ijoroyo"
+                />
+            <TextView
+                android:id="@+id/nama_produk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="288px"
+                android:paddingLeft="10dip"
+                android:text="Bawang Merah Manalagi"
+                android:textSize="8pt"
+                android:textStyle="bold"
+                android:textColor="@color/colorSelected"
+                />
+            <TextView
+                android:id="@+id/harga"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="328px"
+                android:paddingLeft="10dip"
+                android:text="Rp 25000/Kg"
+                android:textSize="8pt"
+                android:textStyle="bold"
+                android:textColor="@color/colorSelected"
+                />
+            <TextView
+                android:id="@+id/minimal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="370px"
+                android:paddingLeft="10dip"
+                android:text="Minimal Pembelian 1 Kg"
+                android:textSize="5pt"
+                android:textStyle="italic"
+                android:textColor="@color/colorSelected"
+                />
+        </RelativeLayout>
+        <LinearLayout android:id="@+id/layout1line2"
+            android:background="@color/colorSelected"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="2dip"
+            android:paddingLeft="4dip"
+            android:paddingRight="4dip"
+            android:paddingBottom="10dip"
+            android:orientation="vertical"
+            android:weightSum="1">
+            <TextView
+                android:id="@+id/petani"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dip"
+                android:text="Muh Syaifudin"
+                android:textSize="7pt"
+                android:textStyle="bold"
+                android:textColor="@color/colorUnselected"
+                />
+            <TextView
+                android:id="@+id/notelp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dip"
+                android:text="08231234231"
+                android:textSize="5pt"
+                android:textColor="@color/colorUnselected"
+                />
+            <TextView
+                android:id="@+id/alamat"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:paddingLeft="10dip"
+                android:text="Jl. Selokan Mataram, No 2, Sleman, Yogyakarta"
+                android:textSize="5pt"
+                android:textColor="@color/colorUnselected"
+                />
+            <TextView
+                android:id="@+id/kd_produk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:text="kode"/>
+            <Button android:id="@+id/btnkeranjang"
+                android:layout_width="fill_parent"
+                android:layout_height="35dip"
+                android:textColor="#ffffff"
+                android:textSize="12dip"
+                android:onClick="addTochart"
+                android:background="@drawable/buttonijo"
+                android:text="Masukkan ke Keranjang"/>
+        </LinearLayout>
+    </LinearLayout>
+    <!--<LinearLayout-->
+        <!--android:id="@+id/line1"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/tx_name"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:gravity="center"-->
+            <!--android:text="Udin"-->
+            <!--android:textAppearance="?android:textAppearanceLarge" />-->
+
+    <!--</LinearLayout>-->
+    <!--<LinearLayout-->
+        <!--android:layout_below="@+id/line1"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content">-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:id="@+id/tx_foto"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:text="Udin"-->
+            <!--android:gravity="center"-->
+            <!--android:textAppearance="?android:textAppearanceLarge"-->
+            <!--/>-->
+
+
+    <!--</LinearLayout>-->
+
+</RelativeLayout>
