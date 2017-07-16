@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:2:1-56:12
 	package
 		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:5:5-6
 	android:name
 		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:7:5-53:19
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:7:5-54:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Horizon\.android\build-cache\d02e704f6db2ab966c62ee3d003c00665762ed70\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Horizon\.android\build-cache\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Horizon\.android\build-cache\17c06865d6ab835f2c42fe2ae7076543bcfb3232\output\AndroidManifest.xml:26:5-20
@@ -118,7 +118,9 @@ ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:49:9-
 	android:name
 		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:50:13-46
 activity#com.etanixyz.etani.CheckoutActivity
-ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:52:9-63
+ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:52:9-53:68
+	android:theme
+		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:53:13-56
 	android:name
 		ADDED from E:\Materi Kuliah\PKM\Apk\eTani\app\src\main\AndroidManifest.xml:52:19-51
 uses-sdk
