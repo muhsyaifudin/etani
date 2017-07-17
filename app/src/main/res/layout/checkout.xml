@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.etanixyz.etani.CheckoutActivity">
+    <LinearLayout
+        android:id="@+id/line1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dip"
 
-</android.support.constraint.ConstraintLayout>
+        android:orientation="vertical"
+        android:background="#ff82bc00">
+        <ImageView android:id="@+id/image_view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:maxWidth="80dp"
+            android:maxHeight="80dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logo"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/line2"
+        android:layout_below="@+id/line1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:orientation="vertical"
+        android:background="#ff82bc00">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Checkout"
+            android:textSize="12dip"
+            android:textColor="@color/colorSelected"
+            android:textAlignment="center"/>
+    </LinearLayout>
+
+</RelativeLayout>

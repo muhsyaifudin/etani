@@ -3,6 +3,7 @@ package com.etanixyz.etani;
 import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
+import android.support.v4.content.res.ConfigurationHelper;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextPaint;
@@ -96,7 +97,7 @@ public class KeranjangActivity extends AppCompatActivity {
     }
     public void checkout(View view){
         String tanggal, kode_transaksi, status;
-        BackgroundCheckout backgroundCheckout = new BackgroundCheckout(getApplicationContext());
+        BackgroundCheckout backgroundCheckout = new BackgroundCheckout(this);
 
         Calendar calendar = Calendar.getInstance();
         SimpleDateFormat simpledateformat = new SimpleDateFormat("yyyy-MM-dd");
@@ -106,6 +107,7 @@ public class KeranjangActivity extends AppCompatActivity {
         status = "Belum Dibayar";
 
         backgroundCheckout.execute(kode_transaksi, tanggal, kd_user, status, json_string);
+
 
 
 
