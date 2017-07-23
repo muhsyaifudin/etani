@@ -1,15 +1,31 @@
 [
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
@@ -28,7 +44,23 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

@@ -49,8 +49,9 @@
         <activity
             android:name=".KeranjangActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".CheckoutActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".TransaksiActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
