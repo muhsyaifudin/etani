@@ -10,7 +10,6 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:paddingTop="15dip"
-
         android:orientation="vertical"
         android:background="#ff82bc00">
         <ImageView android:id="@+id/image_view1"
@@ -40,5 +39,4 @@
             android:textColor="@color/colorSelected"
             android:textAlignment="center"/>
     </LinearLayout>
-
 </RelativeLayout>
