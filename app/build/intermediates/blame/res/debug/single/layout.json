@@ -4,24 +4,36 @@
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\bantuan.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\akun.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\akun.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\register.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -32,28 +44,24 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_keranjang.xml",
@@ -68,6 +76,10 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
@@ -76,44 +88,36 @@
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\login.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
-        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\list.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\login.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -124,72 +128,60 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keranjang.xml",
-        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\keranjang.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\list.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\riwayat.xml",
-        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\riwayat.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\produk.xml",
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\produk.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkout.xml",
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\checkout.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_list_view.xml",
-        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\display_list_view.xml"
-    },
-    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\akun.xml",
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\akun.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -200,32 +192,32 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
-        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\register.xml"
-    },
-    {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transaksi2.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\transaksi2.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\produk.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\produk.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
@@ -236,20 +228,296 @@
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
-        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\row_layout.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\riwayat.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\riwayat.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keranjang.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\keranjang.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keranjang.xml",
+        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\keranjang.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\riwayat.xml",
+        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\riwayat.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_list_view.xml",
+        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\display_list_view.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_list_view.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\display_list_view.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pembayaran.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\fragment_pembayaran.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
+        "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bantuan.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\bantuan.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_keranjang.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\row_keranjang.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spash.xml",
@@ -264,11 +532,23 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout\\notification_template_custom_big.xml"
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spash.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\spash.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alamat.xml",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\layout\\fragment_alamat.xml"
     }
 ]

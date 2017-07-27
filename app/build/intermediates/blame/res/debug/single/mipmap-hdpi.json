@@ -2,5 +2,9 @@
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

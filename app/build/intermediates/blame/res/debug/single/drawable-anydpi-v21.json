@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\446765526a3f4b4be53ad264973a03a8385fed95\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\d02e704f6db2ab966c62ee3d003c00665762ed70\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },

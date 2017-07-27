@@ -96,17 +96,19 @@ public class KeranjangActivity extends AppCompatActivity {
 
     }
     public void checkout(View view){
-        String tanggal, kode_transaksi, status;
-        BackgroundCheckout backgroundCheckout = new BackgroundCheckout(this);
-
-        Calendar calendar = Calendar.getInstance();
-        SimpleDateFormat simpledateformat = new SimpleDateFormat("yyyy-MM-dd");
-        SimpleDateFormat simpledateformat2 = new SimpleDateFormat("ddHHmmss");
-        tanggal = simpledateformat.format(calendar.getTime());
-        kode_transaksi = simpledateformat2.format(calendar.getTime());
-        status = "Belum Dibayar";
-
-        backgroundCheckout.execute(kode_transaksi, tanggal, kd_user, status, json_string);
+        Intent i = new Intent(getApplicationContext(),Transaksi2Activity.class);
+        startActivity(i);
+//        String tanggal, kode_transaksi, status;
+//        BackgroundCheckout backgroundCheckout = new BackgroundCheckout(this);
+//
+//        Calendar calendar = Calendar.getInstance();
+//        SimpleDateFormat simpledateformat = new SimpleDateFormat("yyyy-MM-dd");
+//        SimpleDateFormat simpledateformat2 = new SimpleDateFormat("ddHHmmss");
+//        tanggal = simpledateformat.format(calendar.getTime());
+//        kode_transaksi = simpledateformat2.format(calendar.getTime());
+//        status = "Belum Dibayar";
+//
+//        backgroundCheckout.execute(kode_transaksi, tanggal, kd_user, status, json_string);
 
 
 

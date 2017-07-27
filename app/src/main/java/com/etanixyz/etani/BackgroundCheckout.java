@@ -102,7 +102,7 @@ public class BackgroundCheckout extends AsyncTask<String, Void, String> {
     @Override
     protected void onPostExecute(String result) {
 
-        Intent i = new Intent(context, CheckoutActivity.class);
+        Intent i = new Intent(context, Transaksi2Activity.class);
         i.putExtra("data", result);
         context.startActivity(i);
     }

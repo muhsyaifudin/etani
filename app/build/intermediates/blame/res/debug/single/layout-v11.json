@@ -1,11 +1,23 @@
 [
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
@@ -16,11 +28,23 @@
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     }
 ]

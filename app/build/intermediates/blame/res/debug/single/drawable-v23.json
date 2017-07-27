@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Kuliah\\PKM\\E-Tani_Project\\Neo eTani\\etani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\Imantoko\\.android\\build-cache\\b666aea7f8aabb689fad9d8151f20cf4686ad698\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
         "merged": "E:\\Materi Kuliah\\PKM\\Apk\\eTani\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
         "source": "C:\\Users\\Horizon\\.android\\build-cache\\02b9ecabe925ecdd17bc0890a9c8c0a3ec05b6ab\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
