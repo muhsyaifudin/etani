@@ -96,7 +96,7 @@ public class KeranjangActivity extends AppCompatActivity {
 
     }
     public void checkout(View view){
-        Intent i = new Intent(getApplicationContext(),TransaksiActivity.class);
+        Intent i = new Intent(getApplicationContext(),Transaksi2Activity.class);
         startActivity(i);
 //        String tanggal, kode_transaksi, status;
 //        BackgroundCheckout backgroundCheckout = new BackgroundCheckout(this);

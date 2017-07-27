@@ -60,8 +60,9 @@
             android:name="com.etanixyz.etani.KeranjangActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.etanixyz.etani.TransaksiActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:name="com.etanixyz.etani.Transaksi2Activity"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
     </application>
 
 </manifest>

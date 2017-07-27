@@ -3,7 +3,10 @@
     <string name="title_activity_main2">Main2Activity</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
-
+    <!--STRING PEMBAYARAN DAN KONFIRMASI-->
+    <string name="pembayaran_dan_konfirmasi">Pembayaran &amp; Konfirmasi</string>
+    <string name="stringlangkah1">Langkah-langkah melakukan pembayaran &amp; konfirmasi :</string>
+    <!--END STRING PEMBAYARAN DAN KONFIRMASI-->
     <string-array name="header_titles">
         <item>Detail Pengiriman</item>
         <item>Produk</item>
@@ -12,11 +15,25 @@
     <string-array name="h1">
         <item>Imantoko</item>
         <item>Warung Spesial Terong</item>
-        <item>Jl. Harjowinatan PA I/750 Pakualaman, Yogyakarta</item>
-        <item>55112</item>
-        <item>+62823328876</item>
+        <item>Jl. Harjowinatan PA I/750 Pakualaman, Yogyakarta, 55112</item>
+        <item>+6282332887666</item>
     </string-array>
     <string-array name="h2">
+        <item>Bawang Merah Super</item>
+        <item>Bawang Merah Spesial</item>
+        <item>Bawang Putih Kobar</item>
+        <item>Bawang Merah Super</item>
+        <item>Bawang Merah Spesial</item>
+        <item>Bawang Putih Kobar</item>
+        <item>Bawang Merah Super</item>
+        <item>Bawang Merah Spesial</item>
+        <item>Bawang Putih Kobar</item>
+        <item>Bawang Merah Super</item>
+        <item>Bawang Merah Spesial</item>
+        <item>Bawang Putih Kobar</item>
+        <item>Bawang Merah Super</item>
+        <item>Bawang Merah Spesial</item>
+        <item>Bawang Putih Kobar</item>
         <item>Bawang Merah Super</item>
         <item>Bawang Merah Spesial</item>
         <item>Bawang Putih Kobar</item>
@@ -25,7 +42,8 @@
         <item>Silakan lakukan pembayaran ke rekening BRI</item>
         <item>Atas Nama   : IMANTOKO</item>
         <item>No. Rekening: 2345678987654</item>
-        <item>Kemudian lakukan konfirmasi pembayaran dengan upload foto bukti pembayaran melalui menu Transaksi.</item>
+        <item>Kemudian lakukan konfirmasi pembayaran dengan upload foto</item>
+        <item>bukti pembayaran melalui menu Transaksi.</item>
     </string-array>
 
 </resources>

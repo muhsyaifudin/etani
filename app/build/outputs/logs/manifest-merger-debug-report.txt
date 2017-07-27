@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:2:1-57:12
+ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
 		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidMani
 	android:name
 		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:7:5-55:19
+ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:7:5-57:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Imantoko\.android\build-cache\446765526a3f4b4be53ad264973a03a8385fed95\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Imantoko\.android\build-cache\b666aea7f8aabb689fad9d8151f20cf4686ad698\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Imantoko\.android\build-cache\010149d9ea7f67268edc32f53ed3c24aa43b31c6\output\AndroidManifest.xml:26:5-20
@@ -117,12 +117,12 @@ ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidMani
 		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:51:13-56
 	android:name
 		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:50:13-46
-activity#com.etanixyz.etani.TransaksiActivity
-ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:52:9-54:59
+activity#com.etanixyz.etani.Transaksi2Activity
+ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:52:9-56:20
 	android:theme
 		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:54:13-56
 	android:name
-		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:53:13-46
+		ADDED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml:53:13-47
 uses-sdk
 INJECTED from D:\Kuliah\PKM\E-Tani_Project\Neo eTani\etani\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] C:\Users\Imantoko\.android\build-cache\446765526a3f4b4be53ad264973a03a8385fed95\output\AndroidManifest.xml:21:5-23:62

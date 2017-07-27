@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff">
+    <LinearLayout
+        android:id="@+id/layout_judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorUnselected">
+        <TextView
+            android:id="@+id/judulalamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alamat Penerima"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_isi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/nama"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="Nama"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/nama"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/isinama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/titik1"
+            android:layout_marginLeft="5dp"
+            android:text="Imantoko"
+            android:textColor="@color/colorUnselected" />
+
+
+
+        <TextView
+            android:id="@+id/perusahaan"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nama"
+            android:text="Perusahaan"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/titik1"
+            android:layout_toRightOf="@id/perusahaan"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/isiperusahaan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/isinama"
+            android:layout_toRightOf="@id/titik2"
+            android:layout_marginLeft="5dp"
+            android:text="Waroeng Spesial Terong"
+            android:textColor="@color/colorUnselected" />
+
+
+
+        <TextView
+            android:id="@+id/alamat"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/perusahaan"
+            android:text="Alamat"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/titik2"
+            android:layout_toRightOf="@id/alamat"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/isialamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/isiperusahaan"
+            android:layout_toRightOf="@id/titik3"
+            android:layout_marginLeft="5dp"
+            android:text="Jl. Harjowinatan PA I/750, Pakulaman, Yogyakarta"
+            android:textColor="@color/colorUnselected" />
+
+
+
+        <TextView
+            android:id="@+id/kodepos"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/isialamat"
+            android:text="Kode Pos"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/isialamat"
+            android:layout_toRightOf="@id/kodepos"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/isikodepos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/isialamat"
+            android:layout_toRightOf="@id/titik4"
+            android:layout_marginLeft="5dp"
+            android:text="55112"
+            android:textColor="@color/colorUnselected" />
+
+
+        <TextView
+            android:id="@+id/notelp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/kodepos"
+            android:text="No. Telp"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/titik4"
+            android:layout_toRightOf="@id/notelp"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/isinotelp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/isikodepos"
+            android:layout_toRightOf="@id/titik5"
+            android:layout_marginLeft="5dp"
+            android:text="082327331289"
+            android:textColor="@color/colorUnselected" />
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff">
+    <LinearLayout
+        android:id="@+id/layout_judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorUnselected">
+        <TextView
+            android:id="@+id/judulalamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pembayaran_dan_konfirmasi"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/layout_isi"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/langkah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/stringlangkah1"
+            android:textColor="@color/colorUnselected" />
+
+        <!--LANGKAH 1-->
+        <TextView
+            android:id="@+id/no1"
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/langkah"
+            android:text="1. "
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/langkah1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/langkah"
+            android:layout_toEndOf="@id/no1"
+            android:layout_toRightOf="@id/no1"
+            android:text="Lakukan pembayaran ke rekening BRI"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/tagatasnama"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/no1"
+            android:layout_toEndOf="@id/no1"
+            android:layout_toRightOf="@id/no1"
+            android:text="Atas Nama"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/tagatasnama"
+            android:layout_toRightOf="@id/tagatasnama"
+            android:layout_below="@id/langkah1"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/namarek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/titik1"
+            android:layout_toRightOf="@id/titik1"
+            android:layout_below="@id/langkah1"
+            android:text="  IMANTOKO"
+            android:textStyle="bold"
+            android:textColor="@color/colorUnselected" />
+
+        <TextView
+            android:id="@+id/tagnorek"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tagatasnama"
+            android:layout_toEndOf="@id/no1"
+            android:layout_toRightOf="@id/no1"
+            android:text="No. Rekening"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/titik2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/tagnorek"
+            android:layout_toRightOf="@id/tagnorek"
+            android:layout_below="@id/titik1"
+            android:text=":"
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/norek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/titik2"
+            android:layout_toRightOf="@id/titik2"
+            android:layout_below="@id/namarek"
+            android:text="  0242-01-043496-50-5"
+            android:textStyle="bold"
+            android:textColor="@color/colorUnselected" />
+        <!--END lANGKAH 1-->
+
+        <!--LANGKAH 2-->
+        <TextView
+            android:id="@+id/no2"
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tagnorek"
+            android:text="2. "
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/langkah2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tagnorek"
+            android:layout_toEndOf="@id/no2"
+            android:layout_toRightOf="@id/no2"
+            android:text="Foto atau Scan bukti pembayaran."
+            android:textColor="@color/colorUnselected" />
+        <!--END lANGKAH 2-->
+
+        <!--LANGKAH 3-->
+        <TextView
+            android:id="@+id/no3"
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/no2"
+            android:text="3. "
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/langkah3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/langkah2"
+            android:layout_toEndOf="@id/no3"
+            android:layout_toRightOf="@id/no3"
+            android:text="Upload gambar bukti pembayaran melalui menu Transaksi."
+            android:textColor="@color/colorUnselected" />
+        <!--END lANGKAH 3-->
+
+        <!--LANGKAH 4-->
+        <TextView
+            android:id="@+id/no4"
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/langkah3"
+            android:text="4. "
+            android:textColor="@color/colorUnselected" />
+        <TextView
+            android:id="@+id/langkah4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/langkah3"
+            android:layout_toEndOf="@id/no4"
+            android:layout_toRightOf="@id/no4"
+            android:text="Selesai."
+            android:textColor="@color/colorUnselected" />
+        <!--END lANGKAH 4-->
+
+        <TextView
+            android:id="@+id/note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textSize="12sp"
+            android:layout_below="@id/langkah4"
+            android:text="Catatan: konfirmasi pembayaran paling lambat 3 jam setelah pemesanan, apabila melebihi batas waktu maka pemesanan dianggap batal."
+            android:textColor="#ff2323" />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip">
+        <Button android:id="@+id/btnCheckout"
+            android:layout_width="fill_parent"
+            android:layout_height="35dip"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            android:background="@drawable/buttonijo"
+            android:text="Pesan"/>
+    </LinearLayout>
+</LinearLayout>

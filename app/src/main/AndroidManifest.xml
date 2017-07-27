@@ -50,8 +50,10 @@
             android:name=".KeranjangActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".TransaksiActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:name=".Transaksi2Activity"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
     </application>
 
 </manifest>
